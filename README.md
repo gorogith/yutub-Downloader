@@ -15,6 +15,20 @@ YouTube Playlist Downloader adalah aplikasi sederhana berbasis GUI yang memungki
 
 ## Instalasi
 
+### Linux
+1. **Instal Python:**
+   - Gunakan package manager distribusi Linux Anda untuk menginstal Python 3.x. Contoh untuk distribusi berbasis Debian:
+     ```bash
+     sudo apt update
+     sudo apt install python3 python3-pip
+     ```
+
+2. **Instal `yt-dlp`:**
+   - Jalankan:
+     ```bash
+     pip3 install yt-dlp
+     ```
+
 ### Windows
 1. **Instal Python:**
    - Unduh dan instal Python dari [python.org](https://www.python.org/downloads/). Pastikan untuk mencentang opsi "Add Python to PATH" selama instalasi.
